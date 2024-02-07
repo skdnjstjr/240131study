@@ -73,7 +73,7 @@ public class Application02 {
         /* 목차. 3-2. 문자열과 다른 형태의 값 연산*/
         System.out.println("hello"+123);
         System.out.println("hello"+123.456);
-        System.out.println("hello"+ 'a');
+        System.out.println("hello"+ 'a');       //hello 문자열이 붙어있기떄문에 문자 a를 숫자취급하지 않고 문자취급함
         System.out.println("hello"+ true);
 
         /* 목차. 4. 논리 값 연산 */

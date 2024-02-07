@@ -36,7 +36,7 @@ public class Application02 {
         double dnum;    // 8byte
 
         /* 목차. 1-1-2. 문자를 취급하는 자료형 */
-        /* 필기. 문자를 취급하는 자료형은 2가지가 있다. */
+        /* 필기. 문자를 취급하는 자료형은 2가지가 있다.(문자도 가능하지만 숫자도 가능) */
         char ch;        // 2byte
         char ch2;
 
